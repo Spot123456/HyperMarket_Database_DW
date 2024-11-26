@@ -1,0 +1,12 @@
+creation_timestamp: 1729271763828
+current_stage: Production
+description: null
+last_updated_timestamp: 1729271945118
+name: Loan_Default_Prediction
+run_id: 7ea2d6abe8454119b4633432c916cf94
+run_link: null
+source: file:///D:/Ahmed%20DATA%20R/Data%20project/new%20project/appp/mlruns/931608309636732246/7ea2d6abe8454119b4633432c916cf94/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
